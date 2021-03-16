@@ -1,0 +1,94 @@
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+header{
+   height: 120px;
+   background: #4ea0ff;
+   background-image: url(./img/pattern.png);
+   background-size: 500px;
+}
+ #logo{
+     width: 150px;
+     margin-top: 70px;
+     margin-left: 10px;
+}
+ h1{
+    font-size: 50px;
+    font-weight: 900;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+h3, h5{
+    color: #8e8e8e;
+    margin: 0;
+}
+
+.fotoTim{
+    width: 100%;
+    text-align: center;
+}
+#timUno{
+    margin-top: 20px;
+    width: 595px;
+    height: 400px;
+}
+
+#timDue{
+    margin-top: 20px;
+    width: 595px;
+    height: 400px;
+
+}
+h6{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+span{
+    background-color: yellow;
+}
+
+ul, li{
+    padding-inline-start: 15px;
+}
+
+table{
+    background-color: #b1e5f2;
+    text-align: left;
+}
+
+th{
+    background-color: #20A9E5;
+    color: white;
+    width: 350px;
+}
+
+#colonna {
+    width: 600px;
+    text-align: justify;
+}
+.rigaBianca > td{
+    background: white;
+}
+
+#consiglio1{
+    color: white;
+    height: 200px;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+#consiglio2{
+    color: white;
+    height: 200px;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+}
